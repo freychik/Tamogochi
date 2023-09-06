@@ -4,7 +4,7 @@ import datetime
 import threading
 from telebot import types
 
-bot = telebot.TeleBot('6428337642:AAHGqm88cznR7FPYzsErZPa9LRe79TSvxCA')
+bot = telebot.TeleBot('You Token')
 
 
 win_streak = {}  
